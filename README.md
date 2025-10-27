@@ -11,7 +11,7 @@ Wanderlust allows users to:
 
 * 🏡 Create and manage listings — Add new stays with detailed descriptions, prices, and images.
 
-*🔐 Register and log in securely — Built using Passport.js with sessions and authentication.
+* 🔐 Register and log in securely — Built using Passport.js with sessions and authentication.
 
 * 🗺️ Explore listings on an interactive map — Implemented using MapLibre GL JS and Geoapify API for free map rendering.
 
