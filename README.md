@@ -12,9 +12,9 @@ Whether you're exploring destinations or hosting your own, Wanderlust delivers a
 ✨ Features
 
 🏨 Listings
-Create, edit, delete travel listings
+-Create, edit, delete travel listings
 
-Upload images via Cloudinary
+-Upload images via Cloudinary
 
 View detailed pages for each listing
 
